@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/facebookapp/static/css/main.f827c9c7.css",
+    "main.js": "/facebookapp/static/js/main.fabdd87b.js",
+    "index.html": "/facebookapp/index.html",
+    "main.f827c9c7.css.map": "/facebookapp/static/css/main.f827c9c7.css.map",
+    "main.fabdd87b.js.map": "/facebookapp/static/js/main.fabdd87b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f827c9c7.css",
+    "static/js/main.fabdd87b.js"
+  ]
+}
